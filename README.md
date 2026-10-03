@@ -13,7 +13,7 @@ For every subsequent restart, use ./cpe2.sh
 
 The install 2 is the other way when the First No Work or when you will the way 2 !
 
-`pkg install wget -y && wget -y && wget https://github.com/user-attachments/files/33008925/install2.sh && chmod +x install2.sh && ./install2.sh`
+`pkg install wget -y && wget -y && wget https://github.com/user-attachments/files/33011736/install2.sh && chmod +x install2.sh && ./install2.sh`
 
 P.s.
 
