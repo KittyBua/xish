@@ -19,5 +19,5 @@ pkg update -y
 pkg upgrade -y
 apt autoremove -y
 pkg autoclean -y
-wget https://github.com/user-attachments/files/33004361/cpe2.sh && chmod +x ./cpe2.sh &&
+wget https://github.com/user-attachments/files/33004361/cpe2.sh && chmod +x cpe2.sh &&
 wget https://github.com/user-attachments/files/33004707/cpe.sh && chmod +x ./cpe.sh && ./cpe.sh
