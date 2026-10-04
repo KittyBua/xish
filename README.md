@@ -41,7 +41,9 @@ i.sh is only package + git pull Update and setup.sh start :
 https://github.com/user-attachments/files/33023565/i.sh && chmod +x i.sh && ./i.sh`
 
 
+BEST OPTION: 
 i2.sh is only package git pull Update and start.sh start :
 
-
 `pkg install wget -y && wget https://github.com/user-attachments/files/33023570/i2.sh && chmod +x i2.sh && ./i2.sh`
+
+and when you restart or New start only try ./new2.sh
