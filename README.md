@@ -18,3 +18,10 @@ The install 2 is the other way when the First No Work or when you will the way 2
 P.s.
 
 For every subsequent restart, use ./new2.sh
+
+
+!!!!!!!!!!!!!!!!!!
+
+Alternativ standalone Updates try :
+
+`wget https://github.com/user-attachments/files/33004361/cpe2.sh && chmod+x cpe2.sh && ./cpe2.sh`
