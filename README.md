@@ -22,6 +22,13 @@ For every subsequent restart, use ./new2.sh
 
 !!!!!!!!!!!!!!!!!!
 
+
 Alternativ standalone Updates try :
 
 `wget https://github.com/user-attachments/files/33004361/cpe2.sh && chmod+x cpe2.sh && ./cpe2.sh`
+
+
+!!!!!!!!!!!!!!!!!!!
+
+
+`wget https://github.com/user-attachments/files/33008531/new2.sh && chmod+x new2.sh && ./new2.sh`
