@@ -47,3 +47,13 @@ i2.sh is only package git pull Update and start.sh start :
 `pkg install wget -y && wget https://github.com/user-attachments/files/33023570/i2.sh && chmod +x i2.sh && ./i2.sh`
 
 and when you restart or New start only try ./new2.sh
+
+
+
+P.S. If you like, you can add an auto-start script to your bash configuration so it launches automatically!
+
+Example:
+
+`echo "bash ~/my_script.sh" >> ~/.bashrc`
+
+You can control the ATV box using your Android smartphone via "adb mouse"!
