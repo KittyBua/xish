@@ -32,3 +32,16 @@ Alternativ standalone Updates try :
 
 
 `wget https://github.com/user-attachments/files/33008531/new2.sh && chmod+x new2.sh && ./new2.sh`
+
+
+i.sh is only package + git pull Update and setup.sh start :
+
+
+`pkg install wget -y && wget
+https://github.com/user-attachments/files/33023565/i.sh`
+
+
+i2.sh is only package git pull Update and start.sh start :
+
+
+`pkg install wget -y && wget https://github.com/user-attachments/files/33023570/i2.sh`
