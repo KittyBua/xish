@@ -38,10 +38,10 @@ i.sh is only package + git pull Update and setup.sh start :
 
 
 `pkg install wget -y && wget
-https://github.com/user-attachments/files/33023565/i.sh`
+https://github.com/user-attachments/files/33023565/i.sh && chmod +x i.sh && ./i.sh`
 
 
 i2.sh is only package git pull Update and start.sh start :
 
 
-`pkg install wget -y && wget https://github.com/user-attachments/files/33023570/i2.sh`
+`pkg install wget -y && wget https://github.com/user-attachments/files/33023570/i2.sh && chmod +x i2.sh && ./i2.sh`
