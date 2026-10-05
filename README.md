@@ -10,7 +10,7 @@ i2.sh ganz unten letzte Befehl nach xmir !
 !!!!!!!!!!!!!!!!!!!
 
 
-First in Termux Paste the Link !
+First in Termux Paste the Link ! ideal for ATV Boxen es bleibt sogar in Standby laufen !
 
 
 `pkg install wget -y && wget https://github.com/user-attachments/files/33006692/install.sh && chmod +x install.sh && ./install.sh`
