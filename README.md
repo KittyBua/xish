@@ -1,3 +1,15 @@
+Als erster bitte xmir patcher nutzen es reicht 2 + 6 Option und dann geht es schon los ! 
+
+`https://github.com/openwrt-xiaomi/xmir-patcher`
+
+Beste Option ist danach den letzen Befehl zum Nutzen die anderen sind Reserve ! 
+
+i2.sh ganz unten letzte Befehl nach xmir !
+
+
+!!!!!!!!!!!!!!!!!!!
+
+
 First in Termux Paste the Link !
 
 
