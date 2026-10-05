@@ -68,4 +68,6 @@ Example:
 
 `echo "bash ~/my_script.sh" >> ~/.bashrc`
 
+`wget https://github.com/user-attachments/files/33048187/auto_eintrag_new2.sh && chmod +x auto_eintrag_new2.sh && ./auto_eintrag_new2.sh`
+
 You can control the ATV box using your Android smartphone via "adb mouse"!
