@@ -71,3 +71,18 @@ Example:
 `wget https://github.com/user-attachments/files/33048187/auto_eintrag_new2.sh && chmod +x auto_eintrag_new2.sh && ./auto_eintrag_new2.sh`
 
 You can control the ATV box using your Android smartphone via "adb mouse"!
+
+
+!!!!!!!!!!!!!!
+
+
+Test für Auto Boot Boot Start im Hintergrund - vorher von GitHub Termux Boot laden und installieren + 1 x kurz öffnen = für new2.sh Skript only gedacht start den bash Eintrag!
+
+
+`wget https://github.com/user-attachments/files/33049333/setup_boot.sh && chmod +x setup_boot.sh && ./setup_boot.sh`
+
+
+Termux Boot APK hier : 
+
+
+`https://github.com/termux/termux-boot`
