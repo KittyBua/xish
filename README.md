@@ -95,20 +95,14 @@ Test für Auto Boot Boot Start im Hintergrund - vorher von GitHub Termux Boot la
 `wget https://github.com/user-attachments/files/33114016/setup_boot.sh && chmod +x auto2.sh && ./auto2.sh`
 
 
-Termux Boot APK hier : 
+!!!!!!!!!!!!!!!!
 
 
-`https://f-droid.org/de/packages/com.termux.boot/`
+P.S. After adding that auto-start command to `~/.bash`, you can use TVQuickActions; this ensures everything keeps running automatically in the background without you having to briefly open Termux even once! It works regardless of restarts, standby, waking from standby, etc. Have fun with Termux and your box! Thanks for everything, and thanks for the constant updates!
 
 
-Termux hier :
 
-`https://f-droid.org/de/packages/com.termux/`
+https://play.google.com/store/apps/details?id=dev.vodik7.tvquickactions
 
-Good Look ! 
 
-https://f-droid.org/de/packages/com.termux.styling/
-
-https://search.f-droid.org/?q=Termux&lang=de
-
-!!!!!!!!!!!!!
+!!!!!!!!!!!!!!
