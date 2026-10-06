@@ -107,4 +107,8 @@ Termux hier :
 
 Good Look ! 
 
+https://f-droid.org/de/packages/com.termux.styling/
 
+https://search.f-droid.org/?q=Termux&lang=de
+
+!!!!!!!!!!!!!
