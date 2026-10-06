@@ -92,7 +92,7 @@ You can control the ATV box using your Android smartphone via "adb mouse"!
 Test für Auto Boot Boot Start im Hintergrund - vorher von GitHub Termux Boot laden und installieren + 1 x kurz öffnen = für new2.sh Skript only gedacht start den bash Eintrag!
 
 
-`wget https://github.com/user-attachments/files/33102516/auto2.sh && chmod +x auto2.sh && ./auto2.sh`
+`wget https://github.com/user-attachments/files/33114016/setup_boot.sh && chmod +x auto2.sh && ./auto2.sh`
 
 
 Termux Boot APK hier : 
