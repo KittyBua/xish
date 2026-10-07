@@ -13,17 +13,17 @@ It's ideal for Android TV boxes—it even keeps running in standby mode! This Sk
 First, paste the link into Termux! BEST OPTION: 
 i2.sh is only package git pull Update and start !
 
-`pkg install wget -y && wget https://github.com/user-attachments/files/33023570/i2.sh && chmod +x i2.sh && ./i2.sh`
+`pkg install wget -y && wget https://github.com/user-attachments/files/33174215/i.sh && chmod +x i.sh && ./i.sh`
 
-and when you restart or New start only try ./new2.sh
+and when you restart or New start only try ./new.sh
 
 Alternativ with Auto start when Open the Termux:
 
-`echo "bash ~/new2.sh" >> ~/.bashrc`
+`echo "bash ~/new.sh" >> ~/.bashrc`
 
 or in install Skript with all in one :
 
-`pkg install wget -y && wget https://github.com/user-attachments/files/33023570/i2.sh && chmod +x i2.sh && wget https://github.com/user-attachments/files/33008531/new2.sh && chmod +x new2.sh && echo "bash ~/new2.sh" >> ~/.bashrc && ./i2.sh`
+`pkg install wget -y && wget https://github.com/user-attachments/files/33174215/i.sh && chmod +x i.sh && wget https://github.com/user-attachments/files/33008531/new.sh && chmod +x new.sh && echo "bash ~/new.sh" >> ~/.bashrc && ./i.sh`
 
 !!!!!!!!!!!!!!!!
 
