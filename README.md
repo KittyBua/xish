@@ -42,4 +42,7 @@ It is easier to insert text using a smartphone or similar device—ideally via t
 https://play.google.com/store/apps/details?id=com.game.wifikeyboard
 
 !!!!!!!!!!!!!!!
-
+https://ibb.co/Z63B8qgQ
+https://ibb.co/ccHGwJs9
+https://ibb.co/8gjfzJsS
+https://ibb.co/J1MyPK7
