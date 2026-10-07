@@ -11,7 +11,7 @@ It's ideal for Android TV boxes—it even keeps running in standby mode! This Sk
 !!!!!!!!!!!!!!!!
 
 First, paste the link into Termux! BEST OPTION: 
-i2.sh is only package git pull Update and start.sh start :
+i2.sh is only package git pull Update and start !
 
 `pkg install wget -y && wget https://github.com/user-attachments/files/33023570/i2.sh && chmod +x i2.sh && ./i2.sh`
 
