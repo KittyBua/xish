@@ -23,7 +23,7 @@ Alternativ with Auto start when Open the Termux:
 
 or in install Skript with all in one :
 
-`pkg install wget -y && wget https://github.com/user-attachments/files/33174215/i.sh && chmod +x i.sh && wget https://github.com/user-attachments/files/33008531/new.sh && chmod +x new.sh && echo "bash ~/new.sh" >> ~/.bashrc && ./i.sh`
+`pkg install wget -y && wget https://github.com/user-attachments/files/33174215/i.sh && chmod +x i.sh && wget https://github.com/user-attachments/files/33173863/new.sh && chmod +x new.sh && echo "bash ~/new.sh" >> ~/.bashrc && ./i.sh`
 
 !!!!!!!!!!!!!!!!
 
