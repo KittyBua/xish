@@ -23,7 +23,7 @@ Alternativ with Auto start when Open the Termux:
 
 or in install Skript with all in one :
 
-`pkg install wget -y && wget https://github.com/user-attachments/files/33023570/i2.sh && chmod +x i2.sh && echo "bash ~/new2.sh" >> ~/.bashrc && ./i2.sh`
+`pkg install wget -y && wget https://github.com/user-attachments/files/33023570/i2.sh && chmod +x i2.sh && wget https://github.com/user-attachments/files/33008531/new2.sh && chmod +x new2.sh && echo "bash ~/new2.sh" >> ~/.bashrc && ./i2.sh`
 
 !!!!!!!!!!!!!!!!
 
@@ -42,6 +42,8 @@ It is easier to insert text using a smartphone or similar device—ideally via t
 https://play.google.com/store/apps/details?id=com.game.wifikeyboard
 
 !!!!!!!!!!!!!!!
+
+Pictures Autoboot tvquickactions !
 
 `https://ibb.co/Z63B8qgQ`
 
