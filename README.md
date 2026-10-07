@@ -4,13 +4,13 @@ First, please use the xmir patcher; options 2 and 6 are all you need, and then y
 
 !!!!!!!!!!!!!!!!!!!
 
-First, paste the link into Termux! It's ideal for Android TV boxes—it even keeps running in standby mode! This Skript is for Kreal.exe Xiaomi Skript V1+V2 Version : Info :
+It's ideal for Android TV boxes—it even keeps running in standby mode! This Skript is for Kreal.exe Xiaomi Skript V1+V2 Version : Info :
 
 `https://github.com/Kreal-exe/CPE-Box-cb0401`
 
 !!!!!!!!!!!!!!!!
 
-BEST OPTION: 
+First, paste the link into Termux! BEST OPTION: 
 i2.sh is only package git pull Update and start.sh start :
 
 `pkg install wget -y && wget https://github.com/user-attachments/files/33023570/i2.sh && chmod +x i2.sh && ./i2.sh`
