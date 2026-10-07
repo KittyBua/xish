@@ -23,26 +23,7 @@ i2.sh is only package git pull Update and start.sh start :
 
 and when you restart or New start only try ./new2.sh
 
-
-
-P.S. If you like, you can add an auto-start script to your bash configuration so it launches automatically!
-
-Example:
-
-`echo "bash ~/my_script.sh" >> ~/.bashrc`
-
-`wget https://github.com/user-attachments/files/33048187/auto_eintrag_new2.sh && chmod +x auto_eintrag_new2.sh && ./auto_eintrag_new2.sh`
-
-You can control the ATV box using your Android smartphone via "adb mouse"!
-
-
-!!!!!!!!!!!!!!
-
-
-Test für Auto Boot Boot Start im Hintergrund - vorher von GitHub Termux Boot laden und installieren + 1 x kurz öffnen = für new2.sh Skript only gedacht start den bash Eintrag!
-
-
-`wget https://github.com/user-attachments/files/33114016/setup_boot.sh && chmod +x auto2.sh && ./auto2.sh`
+Alternativ with Auto start when Open the Termux:
 
 
 !!!!!!!!!!!!!!!!
