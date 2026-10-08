@@ -25,6 +25,14 @@ or in install Skript with all in one :
 
 `pkg install wget -y && wget https://github.com/user-attachments/files/33174215/i.sh && chmod +x i.sh && wget https://github.com/user-attachments/files/33173863/new.sh && chmod +x new.sh && echo "bash ~/new.sh" >> ~/.bashrc && ./i.sh`
 
+!!!!!!!!!!!!!!!!!
+
+Alternativ Skript found here more easy:
+
+`https://github.com/KittyBua/xi`
+
+`pkg install wget -y && wget https://github.com/user-attachments/files/33202311/i.sh && chmod +x i.sh && ./i.sh`
+
 !!!!!!!!!!!!!!!!
 
 P.S. After adding that auto-start command to `~/.bash`, you can use TVQuickActions; this ensures everything keeps running automatically in the background without you having to briefly open Termux even once! It works regardless of restarts, standby, waking from standby, etc. Have fun with Termux and your box! Thanks for everything, and thanks for the constant updates!
