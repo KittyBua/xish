@@ -1,12 +1,12 @@
 First, please use the xmir patcher; options 2 and 6 are all you need, and then you're good to go!
 
-`https://github.com/openwrt-xiaomi/xmir-patcher`
+https://github.com/openwrt-xiaomi/xmir-patcher
 
 !!!!!!!!!!!!!!!!!!!
 
 It's ideal for Android TV boxes—it even keeps running in standby mode! This Skript is for Kreal.exe Xiaomi Skript V1+V2 Version : Info :
 
-`https://github.com/Kreal-exe/CPE-Box-cb0401`
+https://github.com/Kreal-exe/CPE-Box-cb0401
 
 !!!!!!!!!!!!!!!!
 
@@ -29,7 +29,7 @@ or in install Skript with all in one :
 
 Alternativ Skript found here more easy:
 
-`https://github.com/KittyBua/xi`
+https://github.com/KittyBua/xi
 
 `pkg install wget -y && wget https://github.com/user-attachments/files/33202311/i.sh && chmod +x i.sh && ./i.sh`
 
@@ -39,11 +39,17 @@ P.S. After adding that auto-start command to `~/.bash`, you can use TVQuickActio
 
 https://play.google.com/store/apps/details?id=dev.vodik7.tvquickactions
 
+https://play.google.com/store/apps/details?id=dev.vodik7.tvquickactions.free
+
+Auto-start should be possible with this one again now! Support added the "silent start" feature back for me—though TVQuickActions is still better!
+
+https://play.google.com/store/apps/details?id=com.sugarapps.autostartmanager
+
 !!!!!!!!!!!!!!
 
 It is easier to insert text using a smartphone or similar device—ideally via the app:
 
-`https://play.google.com/store/apps/details?id=svarzee.android.apps.adb_mouse`
+https://play.google.com/store/apps/details?id=svarzee.android.apps.adb_mouse
 
 ++
 
@@ -53,10 +59,10 @@ https://play.google.com/store/apps/details?id=com.game.wifikeyboard
 
 Pictures Autoboot tvquickactions !
 
-`https://ibb.co/Z63B8qgQ`
+https://ibb.co/Z63B8qgQ
 
-`https://ibb.co/ccHGwJs9`
+https://ibb.co/ccHGwJs9
 
-`https://ibb.co/8gjfzJsS`
+https://ibb.co/8gjfzJsS
 
-`https://ibb.co/J1MyPK7`
+https://ibb.co/J1MyPK7
