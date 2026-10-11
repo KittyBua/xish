@@ -66,3 +66,15 @@ https://ibb.co/ccHGwJs9
 https://ibb.co/8gjfzJsS
 
 https://ibb.co/J1MyPK7
+
+!!!!!!!!!!!!!!
+
+Tip: This one is even better – Onestart:
+
+1 Free of charge
+
+2 Better settings for seconds and apps
+
+https://play.google.com/store/apps/details?id=com.iniro.onstartapps
+
+!!!!!!!!!!!!!!!
